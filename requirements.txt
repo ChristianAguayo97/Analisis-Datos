@@ -1,5 +1,6 @@
 streamlit
 pandas
 ydata-profiling>=4.0.0
+ydata-sdk>=0.1.4
 requests
 setuptools
